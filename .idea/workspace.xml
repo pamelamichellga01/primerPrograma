@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb4afefc-0071-4366-a791-0b55336609aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Evaluaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actividades/JuegoDeAdivinanzas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio/AppBancaria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,13 +36,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Evaluaciones">
-    <configuration name="ConvertidorTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Actividades.ConvertidorTemperatura" />
+  <component name="RunManager" selected="Application.AppBancaria">
+    <configuration name="AppBancaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio.AppBancaria" />
       <module name="primerprograma" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Actividades.*" />
+          <option name="PATTERN" value="Desafio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,16 +50,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Decisiones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Decisiones" />
+    <configuration name="Evaluaciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Evaluaciones" />
       <module name="primerprograma" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Evaluaciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Evaluaciones" />
+    <configuration name="JuegoDeAdivinanzas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Actividades.JuegoDeAdivinanzas" />
       <module name="primerprograma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Actividades.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppBancaria" />
+        <item itemvalue="Application.JuegoDeAdivinanzas" />
         <item itemvalue="Application.Evaluaciones" />
         <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Lectura" />
-        <item itemvalue="Application.Decisiones" />
-        <item itemvalue="Application.ConvertidorTemperatura" />
       </list>
     </recent_temporary>
   </component>
